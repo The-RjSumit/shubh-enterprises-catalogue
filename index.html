@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#008f86">
+  <meta name="description" content="Shubh Enterprises printer consumables, toner cartridges and printer spare parts catalogue.">
+  <title>Shubh Enterprises | Product Catalogue</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <div class="brand-mark">SE</div>
+    <p class="eyebrow">PRINTER CONSUMABLES · SPARE PARTS · IT ACCESSORIES</p>
+    <h1>SHUBH <span>ENTERPRISES</span></h1>
+    <p class="hero-copy">Find toner cartridges, printer parts and accessories by product name or cartridge number.</p>
+    <div class="search-wrap">
+      <label class="sr-only" for="search">Search products</label>
+      <input id="search" type="search" placeholder="Search e.g. 88A, CF259A, pickup roller…" autocomplete="off">
+      <button id="clearSearch" class="clear-btn" type="button" aria-label="Clear search">×</button>
+    </div>
+    <p class="search-tip">Search by product name, cartridge number, model reference or category.</p>
+  </div>
+</header>
+
+<main class="container">
+  <section class="toolbar" aria-label="Catalogue filters">
+    <div>
+      <h2>Product Catalogue</h2>
+      <p id="resultCount" class="muted">Loading products…</p>
+    </div>
+    <div class="filter-area">
+      <label for="categoryFilter">Category</label>
+      <select id="categoryFilter"><option value="">All categories</option></select>
+      <label class="toggle-label"><input id="photoOnly" type="checkbox"> Only items with photos</label>
+    </div>
+  </section>
+
+  <section id="categoryChips" class="chips" aria-label="Quick categories"></section>
+  <section id="productGrid" class="product-grid" aria-live="polite"></section>
+  <div id="emptyState" class="empty-state" hidden>
+    <div class="empty-icon">⌕</div>
+    <h3>No matching products found</h3>
+    <p>Try another cartridge number or remove the category filter.</p>
+  </div>
+
+  <section class="contact-panel">
+    <div>
+      <p class="eyebrow dark-eyebrow">NEED HELP FINDING A PART?</p>
+      <h2>Ask Shubh Enterprises</h2>
+      <p>Send us the product name, cartridge number or a photo of your existing part.</p>
+    </div>
+    <a id="whatsappLink" class="primary-btn" href="#" target="_blank" rel="noopener">Enquire on WhatsApp</a>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <h2>SHUBH <span>ENTERPRISES</span></h2>
+    <p id="address"></p>
+    <p id="phone"></p>
+    <p id="email"></p>
+    <small>Product images are placeholders until replaced with actual product photos. Please confirm exact compatibility before ordering.</small>
+  </div>
+</footer>
+
+<dialog id="photoDialog" class="photo-dialog">
+  <form method="dialog"><button class="dialog-close" aria-label="Close">×</button></form>
+  <img id="dialogImage" alt="">
+  <div class="dialog-copy"><h3 id="dialogName"></h3><p id="dialogCategory"></p><p class="muted">Replace this placeholder with an actual product photo for a more accurate catalogue.</p></div>
+</dialog>
+<script src="app.js"></script>
+</body>
+</html>

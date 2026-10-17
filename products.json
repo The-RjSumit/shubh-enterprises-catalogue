@@ -1,0 +1,1557 @@
+{
+  "business": {
+    "name": "Shubh Enterprises",
+    "tagline": "Printer Consumables • Spare Parts • Computer Accessories",
+    "address": "117, Police Station Road, Mehadia Square, Behind SR Garment, Dhantoli, Nagpur – 440012",
+    "gstin": "27ACBPF6453B1Z2",
+    "phones": [
+      "9665897878",
+      "9960646276"
+    ],
+    "email": "shubhenterprisesngp20@gmail.com"
+  },
+  "categories": [
+    "Toner Cartridges & Drum Units",
+    "Toner & Developer Powders",
+    "Pickup Rollers & Paper Feed",
+    "Pressure Rollers",
+    "Teflon / Sleeve",
+    "Wiper Blades",
+    "Photo Paper & Paper Products",
+    "Printer Parts",
+    "Toner Chips",
+    "CCD Assemblies",
+    "Logic Boards",
+    "ECU / Control Units",
+    "Control Panels",
+    "Drum Units",
+    "Doctor Blades",
+    "PCR Rollers",
+    "Magnet Rollers",
+    "Gears",
+    "Adapters",
+    "Cables",
+    "Connectors",
+    "Computer Accessories",
+    "Lamination Products",
+    "Maintenance Boxes",
+    "Mouse Pads"
+  ],
+  "products": [
+    {
+      "name": "057 / CF 259 CANON TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "071 / 135A CANON TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "101 / MLT-D101S SAM TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "105 / MLT-D105S SAM TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "109 / MLT-D109S SAM TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "110 A / W1112A HP TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "110 A HP WITHOUT CHIP TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "116 / MLT-D116S SAM TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "118 / TN-118 KONICA TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "119 TONER COLOUR CATRIDGE BLACK",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "119 TONER COLOUR CATRIDGE CYAN",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "119 TONER COLOUR CATRIDGE YELLOW",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "126A / CE310 BLACK TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "12A / FX-9 / 303 TONER CARTRIDGE SHONIX",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "2014HS / MP2014 RICHO TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "2125 / DR-2125 BRO TONER DRUM UNIT",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "2255 / DR-2255 BRO' TONER DRUM UNIT",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "2365 / TN-2365 / 2541 TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "3020 / 3025 XEROX TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "30A / CF230A / 047 HP TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "335X / W1335X HP TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "49A / 53A / Q5949A HP TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "CF 400A / 201 BLACK TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "CF 401A / 201A CYAN TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "CF 402A / 201A YELLOW TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "CF 510 TONER CARTRIDEG MAGENTA",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "CF 512 TONER CARTRIDEG MAGENTA",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "MS 310 / 410 / 510 / 610 TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "TN228L YELLOW KONICA TONER CARTRIDGE",
+      "category": "Toner Cartridges & Drum Units",
+      "image": ""
+    },
+    {
+      "name": "1606 / M1536 / 1566 / 1505 PICKUP ROLLER",
+      "category": "Pickup Rollers & Paper Feed",
+      "image": ""
+    },
+    {
+      "name": "2365/ 2541/ 7055/ 7065 PICKUP UPPER ROD",
+      "category": "Pickup Rollers & Paper Feed",
+      "image": ""
+    },
+    {
+      "name": "1007 1108 M1136 3010 PRESSURE ROLLER",
+      "category": "Pressure Rollers",
+      "image": ""
+    },
+    {
+      "name": "108 / 116 / 1510 SAM UPPER HEAT ROLLER",
+      "category": "Pressure Rollers",
+      "image": ""
+    },
+    {
+      "name": "1606 M1136 1106 126A PRESSURE ROLLER",
+      "category": "Pressure Rollers",
+      "image": ""
+    },
+    {
+      "name": "1666 / 1043 LOWER PRESSURE ROLLER",
+      "category": "Pressure Rollers",
+      "image": ""
+    },
+    {
+      "name": "501 / 506 / 527 LOWER PRESSURE ROLLER",
+      "category": "Pressure Rollers",
+      "image": ""
+    },
+    {
+      "name": "2040 / 2540 / 264 KYOCERA TEFLON / SLIVE",
+      "category": "Teflon / Sleeve",
+      "image": ""
+    },
+    {
+      "name": "2040/1178/1168/1158 WIPER BLADE KYO.",
+      "category": "Wiper Blades",
+      "image": ""
+    },
+    {
+      "name": "PHOTO PAPER PRODOT 180 GSM / 50 SH",
+      "category": "Photo Paper & Paper Products",
+      "image": ""
+    },
+    {
+      "name": "1005W / 1020 / 158A DEVELOPER ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1007 / P1108 / M1136 DRUM DRIVE GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1007 / P1108 / M1136 LOVER ROLLER GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1007 1108 M1136 3010 PRESSURE ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "101S / MLT-111S / D110L DOCTOR BLADE",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1020 / 1005 PAPER ADJUSTMENT LEVER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1020 / M1005 / 2900 CLUCH / PICKUP GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1020 /2900 FUSER HINGES (FUSER LOCK)",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1020 1005 2900 FUSER FIXING LEVER GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1020 1005 2900 PRESSURE ROLLER BUSH",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1020 1005 2900 PRESSURE ROLLER GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1020 PAPER PICKUP ASSEMBLY SENSOR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "104A / W1104A / 1200W DEVELOPER ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "104A / W1104A / 1200W DOCTOR BLADE",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "108 / 116 / 1510 SAM UPPER HEAT ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "115/ D116/ 103/ 203/ 205 DOCTOR BLADE",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "12A FX-9 HP Q2612A 303 MAGNET GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "136 / M138 HP TONER SENSOR SPRING",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1505/ 1522/ 1606/ 226 FUSER DRIVE GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1536/ 1606/ M202/ M226 FUSER ASSEMBLY",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1606 / 1505/ 3010 PRESSURE ROLLER GEAR",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1606 / M1536 / 1566 / 1505 PICKUP ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1606 M1136 1106 126A PRESSURE ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1610/2876 LOWER PRESSURE ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1666 / 1043 LOWER PRESSURE ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1666 / M136 /M138 UPPER ROLLER BUSH",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "1800 KYOCERA TK-4105/4107 TONER CHIP",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2040 / 2540 / 264 KYOCERA TEFLON / SLIVE",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2040/1178/1168/1158 WIPER BLADE KYO.",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2175 / FX 2175 CARRIAGE BUSH OLD (PAIR)",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2200 2250 2800 2850 3300 IR PCR ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2365 / 7055 LOWER PRESSURE ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2365/ 2541/ 7055/ 7065 PICKUP UPPER ROD",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2365/7055/2240 BROTHER UPPER ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2520 / 2520 / 2541 BROTHER POWER SUPPLY",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2541,2321 BRO FUSER EXIT ROLLER BUSH",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2876,4321,4021 (SET) SAMSUNG HINGES",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "4321,4521,4623 SAMSUNG ADF HINGES",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "501 / 506 / 527 LOWER PRESSURE ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "C9344 / L3560 MAINTANANCE BOX CHIP",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "CE 311/321/541/531/251/1025 CHIP (CYAN)",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "CE 312/322/542/252/1025 CHIP (YELLOW)",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "CE 313/323/543/253/1025 CHIP (MAGENT)",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "CF 257A (M436/ M433) DRTUM UNIT CHIP",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "CF 510 / 513 YELLOW COLOR TONER CHIP",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "CHIP 06 CANON IMAGE RUNNER 1643/1643I",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "DOOR SENSOR GT5810 / GT5820 / GT 419",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "E-04 L4150/2170/2140 MAINTANANCE BOX",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "ENCODER STRIP T220/T310/T420/T520W",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "EPSON M2140/M1100/M2130 PICKUP ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "G2010 / G3010 CANON POWER SUPPLY",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "HP GT 5810/ 5820/ 319/ 419 ENCODER DISK",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "K200ND / 436ND / 438ND UPPER ROLLER",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "L3110 (INKSYSTEM ASSY) PUMPING ASSY",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "L3550,L3560 E-C9344 MAINTENANCE BOX",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "L3560/L3556/L3550 MAINTANANCE BOX CHIP",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "M1050 / M2050 C9387 MAINTENANCE BOX",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "M1100 (INKSYSTEM ASSY) PUMPING ASSY",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "T04D1 M2140/ L6170 MAINTENACE BOX CHIP",
+      "category": "Printer Parts",
+      "image": ""
+    },
+    {
+      "name": "2.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "12.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "49.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "45.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "11.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "1.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "8.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "37.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "3.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "10.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "9.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "6.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "31.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "171.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "26.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "4.00",
+      "category": "Adapters",
+      "image": ""
+    },
+    {
+      "name": "10.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "24.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "21.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "11.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "1.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "9.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "26.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "20.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "57.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "3.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "29.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "5.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "19.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "8.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "17.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "40.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "85.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "22.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "194.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "49.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "72.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "4.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "47.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "62.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "28.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "83.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "790.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "1,018.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "314.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "829.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "82.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "39.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "2.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "53.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "16.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "189.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "13.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "23.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "50.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "15.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "6.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "66.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "18.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "44.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "140.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "81.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "7.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "134.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "37.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "146.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "41.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "35.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "166.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "106.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "102.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "103.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "109.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "96.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "42.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "27.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "1,232.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "261.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "88.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "48.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "87.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "36.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "438.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "388.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "176.00",
+      "category": "Cables",
+      "image": ""
+    },
+    {
+      "name": "9.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "19.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "1.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "42.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "34.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "73.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "7.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "109.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "33.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "14.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "63.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "75.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "100.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "77.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "8.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "5.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "10.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "28.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "38.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "331.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "2.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "26.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "11.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "30.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "13.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "23.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "4.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "3.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "64.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "66.00",
+      "category": "Toner Chips",
+      "image": ""
+    },
+    {
+      "name": "3.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "19.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "245.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "52.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "72.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "100.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "159.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "204.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "2.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "8.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "14.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "69.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "18.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "17.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "9.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "10.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "26.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "1,177.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "83.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "30.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "1.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "54.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "110.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "47.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "55.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "24.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "4.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "29.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "119.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "28.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "961.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "15.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "7.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "82.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "115.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "94.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "51.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "33.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "20.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "372.00",
+      "category": "Computer Accessories",
+      "image": ""
+    },
+    {
+      "name": "6.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "36.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "5.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "2.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "219.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "2,689.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "204.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "29.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "19.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "17.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "42.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "21.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "12.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "7.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "23.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "20.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "26.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "1.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "8.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "1,775.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "467.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "103.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "121.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "132.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "3.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "13.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "16.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "9.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "71.00",
+      "category": "Connectors",
+      "image": ""
+    },
+    {
+      "name": "101S / MLT-111S / D110L DOCTOR BLADE",
+      "category": "Doctor Blades",
+      "image": ""
+    },
+    {
+      "name": "104A / W1104A / 1200W DOCTOR BLADE",
+      "category": "Doctor Blades",
+      "image": ""
+    },
+    {
+      "name": "115/ D116/ 103/ 203/ 205 DOCTOR BLADE",
+      "category": "Doctor Blades",
+      "image": ""
+    },
+    {
+      "name": "101S / MLT-111S / D110L SAMSUNG DRUM",
+      "category": "Drum Units",
+      "image": ""
+    },
+    {
+      "name": "120A / W1120A (FOR 119A TONER) DRUM",
+      "category": "Drum Units",
+      "image": ""
+    },
+    {
+      "name": "137A /146A/ CF247A / CF244 / 071 HP DRUM",
+      "category": "Drum Units",
+      "image": ""
+    },
+    {
+      "name": "1610 / 1640 / 4321 / 4521 SAMSUNG DRUM",
+      "category": "Drum Units",
+      "image": ""
+    },
+    {
+      "name": "1007 / P1108 / M1136 DRUM DRIVE GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "1007 / P1108 / M1136 LOVER ROLLER GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "1020 / 1005 PAPER ADJUSTMENT LEVER",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "1020 / M1005 / 2900 CLUCH / PICKUP GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "1020 1005 2900 FUSER FIXING LEVER GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "1020 1005 2900 PRESSURE ROLLER GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "12A FX-9 HP Q2612A 303 MAGNET GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "1505/ 1522/ 1606/ 226 FUSER DRIVE GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "1606 / 1505/ 3010 PRESSURE ROLLER GEAR",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "2175 / FX 2175 CARRIAGE BUSH OLD (PAIR)",
+      "category": "Gears",
+      "image": ""
+    },
+    {
+      "name": "104A / W1104A / 1200W DEVELOPER ROLLER",
+      "category": "Magnet Rollers",
+      "image": ""
+    },
+    {
+      "name": "E-04 L4150/2170/2140 MAINTANANCE BOX",
+      "category": "Maintenance Boxes",
+      "image": ""
+    },
+    {
+      "name": "L3550,L3560 E-C9344 MAINTENANCE BOX",
+      "category": "Maintenance Boxes",
+      "image": ""
+    },
+    {
+      "name": "2200 2250 2800 2850 3300 IR PCR ROLLER",
+      "category": "PCR Rollers",
+      "image": ""
+    }
+  ]
+}
